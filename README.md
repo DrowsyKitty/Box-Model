@@ -1,2 +1,2 @@
 # Box-Model
-CSS- Rothko Painting
+using CSS to build a Rothko-style Painting
